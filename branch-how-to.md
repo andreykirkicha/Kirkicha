@@ -22,3 +22,5 @@ git checkout -b "имя ветки"
 git commit -m "имя коммита"
 git push
 ```
+
+@Полная версия
